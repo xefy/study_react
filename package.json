@@ -1,0 +1,26 @@
+{
+  "name": "study_react",
+  "version": "1.0.0",
+  "description": "only study react",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/E-HERO-ZZ/study_react.git"
+  },
+  "keywords": [
+    "react",
+    "study"
+  ],
+  "author": "zhangzhuo",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/E-HERO-ZZ/study_react/issues"
+  },
+  "homepage": "https://github.com/E-HERO-ZZ/study_react"
+}
